@@ -12,3 +12,6 @@ python3 -m venv environmentname
 source environmentname/bin/activate
 pip install numpy
 ```
+
+### PyPi vs. test PyPi
+
